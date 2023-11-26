@@ -1,0 +1,13 @@
+1)frontend basic Steps
+2) backend Steps
+
+
+* To resolve the  nodemon app crush
+sol-1
+go to task manager 
+find node.js server-site javascirpt
+right click on it & end the task
+
+sol-2
+this error usually has nothing to do with nodemon
+but simply occurs because you made a mistake like a typo and nodemon can not continue until you have fix that mistake the real error is display at top of the error message & fix
